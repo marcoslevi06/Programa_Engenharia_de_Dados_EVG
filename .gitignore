@@ -1,0 +1,4 @@
+venv
+venv/
+curso_sql.db
+.env
